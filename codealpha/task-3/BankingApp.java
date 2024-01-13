@@ -10,9 +10,9 @@ import com.DAO.Accounts;
 
 public class BankingApp {
 
-	private final static String url = "jdbc:mysql://localhost:3306/banking_system";
-	private final static String un = "root";
-	private final static String pw = "Akash123";
+	private final static String url = "jdbc:mysql://localhost:3306/database_name";
+	private final static String un = "username";
+	private final static String pw = "password";
 
 	public static void main(String[] args) {
 		String mail;
